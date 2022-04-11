@@ -1,3 +1,6 @@
+// Project Smart Garden
+
+
 #include<Servo.h>
 #include <dht.h>
 
